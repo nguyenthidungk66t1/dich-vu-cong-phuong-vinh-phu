@@ -51,6 +51,15 @@ Người dân có thể thực hiện theo các bước:
 - [Cổng Dịch vụ công Quốc gia](https://dichvucong.gov.vn)
 - [Cổng thông tin điện tử tỉnh Nghệ An](https://nghean.gov.vn)
 
+## Hình ảnh trụ sở UBND phường Vinh Phú
+
+Dưới đây là hình ảnh trụ sở UBND phường Vinh Phú,
+tỉnh Nghệ An.
+
+![Trụ sở UBND phường Vinh Phú](images/ubnd-vinh-phu.jpg)
+
+*Hình ảnh trụ sở UBND phường Vinh Phú.*
+
 ## 6. Bản đồ vị trí UBND phường Vinh Phú
 
 Bản đồ dưới đây hỗ trợ người dân tra cứu vị trí UBND phường Vinh Phú, tỉnh Nghệ An.
