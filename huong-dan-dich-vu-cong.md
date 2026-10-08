@@ -2,12 +2,16 @@
 
 # HƯỚNG DẪN DỊCH VỤ CÔNG TRỰC TUYẾN
 
-## 1. Video hướng dẫn
+## 1.
+## Video hướng dẫn dịch vụ công trực tuyến
 
-Video dưới đây giúp người dân tham khảo các thao tác
+Video tham khảo giúp người dân tìm hiểu cách
 thực hiện dịch vụ công trực tuyến.
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/HSmgjZ4Q6dM" title="Video hướng dẫn dịch vụ công trực tuyến" style="border:0; border-radius:10px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HSmgjZ4Q6dM" width="100%" height="450" title="Hướng dẫn dịch vụ công trực tuyến" allowfullscreen></iframe>
+
+> Video phục vụ mục đích hướng dẫn, tham khảo.
+
 
 > **Lưu ý:** Video phục vụ mục đích tham khảo.
 > Các thao tác có thể thay đổi theo giao diện
