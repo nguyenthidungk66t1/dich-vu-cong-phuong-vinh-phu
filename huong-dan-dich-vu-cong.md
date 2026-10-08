@@ -1,30 +1,24 @@
 
-## 7. Video hướng dẫn dịch vụ công trực tuyến
 
-Để giúp người dân dễ dàng tìm hiểu và thực hiện
-các thủ tục hành chính trực tuyến, dưới đây là
-video hướng dẫn tham khảo.
+# HƯỚNG DẪN DỊCH VỤ CÔNG TRỰC TUYẾN
 
-<div style="width:100%; max-width:800px; margin:20px auto;">
+## 1. Video hướng dẫn
 
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+Video dưới đây giúp người dân tham khảo các thao tác
+thực hiện dịch vụ công trực tuyến.
 
-    <iframe
-      src="https://www.youtube.com/embed/HSmgjZ4Q6dM"
-      title="Video hướng dẫn dịch vụ công trực tuyến"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; border-radius:10px;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      loading="lazy"
-      allowfullscreen>
-    </iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/HSmgjZ4Q6dM" title="Video hướng dẫn dịch vụ công trực tuyến" style="border:0; border-radius:10px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-  </div>
+> **Lưu ý:** Video phục vụ mục đích tham khảo.
+> Các thao tác có thể thay đổi theo giao diện
+> hiện hành của Cổng Dịch vụ công Quốc gia.
 
-</div>
+## 2. Truy cập dịch vụ công
 
-> **Lưu ý:** Video được sử dụng nhằm mục đích
-> tham khảo, hỗ trợ người dân tìm hiểu
-> cách thực hiện dịch vụ công trực tuyến.
-> Các thao tác thực tế có thể thay đổi
-> theo giao diện hiện hành của hệ thống.
+Người dân có thể truy cập:
+
+[Cổng Dịch vụ công Quốc gia](https://dichvucong.gov.vn)
+
+để tìm hiểu thủ tục hành chính và thực hiện
+các dịch vụ công trực tuyến được hỗ trợ.
+
