@@ -41,7 +41,7 @@ Website được xây dựng bằng Docsify và GitHub Pages, có giao diện đ
 - Xây dựng website cung cấp thông tin về dịch vụ công.
 - Hướng dẫn thực hiện thủ tục hành chính trực tuyến.
 - Hỗ trợ tìm kiếm thông tin và chuẩn bị hồ sơ.
-- Tích hợp Google Forms và Google Maps.
+- Tích hợp Youtube và Google Maps.
 - Vận dụng kiến thức GitHub, Docsify và Markdown.
 
 ## 5. Công nghệ sử dụng
