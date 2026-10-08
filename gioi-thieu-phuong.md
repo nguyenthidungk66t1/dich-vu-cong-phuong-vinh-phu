@@ -69,13 +69,6 @@ Bản đồ dưới đây hỗ trợ người dân tra cứu vị trí UBND phư
 
 > **Lưu ý:** Bản đồ được nhúng từ Google Maps phục vụ mục đích tham khảo. Người dân cần xác nhận địa điểm làm việc hiện hành trước khi đến thực hiện thủ tục.
 
-## 7. Thông tin về website
-
-**Đơn vị thực hiện:** Nhóm sinh viên lớp K66T1 – Trường Đại học Vinh.
-
-**Giáo viên hướng dẫn:** Nguyễn Thuý Hoà.
-
-**Năm học:** 2026–2027.
 
 Website được xây dựng bằng GitHub Pages và Docsify nhằm phục vụ đồ án học phần Nhập môn Công nghệ thông tin.
 
